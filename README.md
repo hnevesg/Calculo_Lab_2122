@@ -8,3 +8,5 @@ Componentes
         - Archivo del descriptor usado (Histograma de Gradientes Orientados)
     
     ./src -> Directorio con el código fuente del proyecto
+
+    ./data -> Directorio con las imágenes de referencia, las imágenes para comparar, y las imágenes de asteroides de cada hito
