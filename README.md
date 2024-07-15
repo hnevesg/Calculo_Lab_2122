@@ -4,8 +4,8 @@ Práctica de Matlab de Cálculo y Métodos Numéricos hecha durante el curso 21/
 Componentes
 -----------
     ./  
-        - Enunciado de la práctica
-        - Archivo del descriptor usado (Histograma de Gradientes Orientados)
+        - Práctica Incremental Matlab 2021-22_v1.0.pdf -> Enunciado de la práctica
+        - HOG.m -> Archivo del descriptor usado (Histograma de Gradientes Orientados)
     
     ./src -> Directorio con el código fuente del proyecto
 
